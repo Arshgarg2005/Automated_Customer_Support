@@ -1,5 +1,4 @@
-# AI-Ticket-Assistant - ChaiCode
-
+# AI-Ticket-Assistant 
 Welcome to the AI-Powered Ticket Management System!
 This course is a part of Chaicode youtube video series. This project is a web application that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
 
@@ -215,3 +214,4 @@ we don't accept contributions for this project, as this is a part of a video and
 - Google Gemini for AI capabilities
 - Mailtrap for email testing
 - MongoDB for database
+
