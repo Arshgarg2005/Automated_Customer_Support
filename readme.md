@@ -2,7 +2,7 @@
 
 A smart ticket management system that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Ticket Processing**
 
@@ -39,7 +39,7 @@ A smart ticket management system that uses AI to automatically categorize, prior
 - **Development**: Nodemon for hot reloading
 
 
-## 📝 API Endpoints
+## API Endpoints
 
 ### Authentication
 
@@ -57,7 +57,7 @@ A smart ticket management system that uses AI to automatically categorize, prior
 - `GET /api/auth/users` - Get all users (Admin only)
 - `POST /api/auth/update-user` - Update user role & skills (Admin only)
 
-## 🔄 Ticket Processing Flow
+##  Ticket Processing Flow
 
 1. **Ticket Creation**
 
